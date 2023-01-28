@@ -10,10 +10,10 @@ version=1
 author=nirmal
 email=joshi.nirmalraj@gmail.com
 
-about=Provide a brief description of the plugin and its purpose.
+about=This plugin displays the elevation and geology at any point inside Japan.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/nirmaljoshi1/japanGeology3/issues
+repository=https://github.com/nirmaljoshi1/japanGeology3
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,11 +25,11 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/nirmaljoshi1/japanGeology3
 category=Plugins
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
